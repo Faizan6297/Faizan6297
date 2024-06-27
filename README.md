@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <h1 align="center">Hi 👋, I'm Faizan Siddique</h1>
 <h3 align="center">A dedicated and diligent BTech student specializing in Computer Science and Engineering with a strong foundation in Java programming and Data Structures and Algorithms (DSA). With a keen interest in problem-solving and software engineering, I am eager to take on new challenges, learn new technologies, and further enhance my skills</h3>
