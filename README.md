@@ -23,7 +23,7 @@
 -- | -- 
 <div>
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=faizan6297&radius=15&hide_border=true&theme=dracula" width="70%">
-    <img src="https://github-readme-stats-deployment.vercel.app/api/top-langs/?username=faizan6297&show_icons=true&theme=dracula&hide_border=true&border_radius=10&hide=jupyter%20notebook,kvlang" width="26%"/>
+    <img src="https://github-readme-stats-deployment.vercel.app/api/top-langs/?username=faizan6297&show_icons=true&theme=dracula&hide_border=true&border_radius=15&hide=jupyter%20notebook,kvlang" width="26%"/>
 </div>
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -31,5 +31,4 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=faizan6297&limit=5&theme=dark&combine_all_yearly_contributions=true)
 ---
-[![](https://visitcount.itsvg.in/api?id=faizan6297&icon=0&color=0)](https://visitcount.itsvg.in)
 
