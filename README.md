@@ -1,4 +1,4 @@
-<p align="center"><a href="https://faizan6297.github.io"><img width="80%" alt="Hello, I'm Faizan Siddique" src="./assets/gh-readme-header.png" /></a></p>
+<p align="center"><a href="https://faizan6297.github.io"><img width="80%" alt="Hello, I'm Faizan Siddique" src="https://see.fontimg.com/api/renderfont4/wWZZ/eyJyIjoiZnMiLCJoIjo4MSwidyI6MTI1MCwiZnMiOjY1LCJmZ2MiOiIjMDAwMDAwIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/SGkgSSdtIEZhaXphbiBTaWRkaXF1ZQ/kg-happy.png" /></a></p>
 <h3 align="center">A dedicated and diligent BTech student specializing in Computer Science and Engineering with a strong foundation in Java programming and Data Structures and Algorithms (DSA). With a keen interest in problem-solving and software engineering, I am eager to take on new challenges, learn new technologies, and further enhance my skills</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faizan6297&label=Profile%20views&color=0e75b6&style=flat" alt="faizan6297" /> </p>
