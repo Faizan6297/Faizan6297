@@ -20,7 +20,7 @@
 
 # Statistics 📊
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=faizan6297&show_icons=true&theme=Gotham&hide_border=false&border_radius=10) | ![Streak Stats](http://github-readme-streak-stats.herokuapp.com?user=Faizan6297&theme=Gotham&hide_border=false&border_radius=10) |---
+![Github Stats](https://github-readme-stats.vercel.app/api?username=faizan6297&show_icons=true&theme=Gotham&hide_border=false&border_radius=10) | ![Streak Stats](http://github-readme-streak-stats.herokuapp.com?user=Faizan6297&theme=Gotham&hide_border=false&border_radius=10) 
 
 <div>
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=faizan6297&radius=15&hide_border=true&theme=Gotham" width="70%">
