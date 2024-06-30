@@ -22,8 +22,8 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Faizan6297&show_icons=true&theme=gotham&hide_border=false&border_radius=10) | ![Streak Stats](http://github-readme-streak-stats.herokuapp.com?user=Faizan6297&theme=gotham&hide_border=false&border_radius=10) |
 -- | -- 
 <div>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Faizan6297&radius=15&hide_border=true&theme=gotham" width="70%">
-    <img src="https://github-readme-stats-deployment.vercel.app/api/top-langs/?username=Faizan6297&show_icons=true&theme=gotham&hide_border=true&border_radius=10&hide=jupyter%20notebook,kvlang" width="26%"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Faizan6297&radius=15&hide_border=false&theme=gotham" width="70%">
+    <img src="https://github-readme-stats-deployment.vercel.app/api/top-langs/?username=Faizan6297&show_icons=true&theme=gotham&hide_border=false&border_radius=10&hide=jupyter%20notebook,kvlang" width="26%"/>
 </div>
 
 
