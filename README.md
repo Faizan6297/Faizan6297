@@ -1,5 +1,5 @@
 <p align="center"><a href="https://faizan6297.github.io"><img width="50%" alt="Hello, I'm Faizan Siddique" src="https://see.fontimg.com/api/renderfont4/Yzwnv/eyJyIjoiZnMiLCJoIjo4MCwidyI6MTI1MCwiZnMiOjY0LCJmZ2MiOiIjRkZGRkZGIiwiYmdjIjoiIzM1M0Q0QiIsInQiOjF9/SGkgSSdtIEZhaXphbiBTaWRkaXF1ZQ/xerically-regular.png" /></a></p>
-<h3 align="center">A dedicated and diligent BTech student specializing in Computer Science and Engineering with a strong foundation in Java programming and Data Structures and Algorithms (DSA). With a keen interest in problem-solving and software engineering, I am eager to take on new challenges, learn new technologies, and further enhance my skills</h3>
+<h3 align="center">A final year B. Tech student specializing in Computer Science and Engineering. Proficient in Java programming and Data Structures and Algorithms (DSA). Passionate about problem-solving and software engineering. As I continue my academic journey, I am eager to take on new challenges and contribute my skills to future projects and teams</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faizan6297&label=Profile%20views&color=0e75b6&style=flat" alt="faizan6297" /> </p>
 
